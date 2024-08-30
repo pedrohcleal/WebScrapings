@@ -47,8 +47,8 @@ web_scrapings/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/web-scrapings.git
-   cd web-scrapings
+   git clone https://github.com/pedrohcleal/WebScrapings
+   cd WebScrapings
    ```
 
 2. Instale as dependências:
