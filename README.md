@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-brightgreen)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.10%2B-blue)
+![Requests](https://img.shields.io/badge/Requests-2.28%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Build Status](https://img.shields.io/github/workflow/status/pedrohcleal/WebScrapings/CI)
+
 # Web Scrapings
 
 Este repositório contém diferentes automações de web scraping utilizando **Selenium** e **BeautifulSoup** (via requests). Cada pasta refere-se a um site específico ou projeto de scraping, organizando scripts que realizam a extração de dados de forma automatizada.
