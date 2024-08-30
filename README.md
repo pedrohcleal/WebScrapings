@@ -2,8 +2,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-brightgreen)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.10%2B-blue)
 ![Requests](https://img.shields.io/badge/Requests-2.28%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Build Status](https://img.shields.io/github/workflow/status/pedrohcleal/WebScrapings/CI)
 
 # Web Scrapings
 
