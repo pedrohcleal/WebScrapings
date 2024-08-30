@@ -14,6 +14,8 @@ import tracemalloc
 
 tracemalloc.start()
 
+load_dotenv()
+
 
 async def login(driver, email, password, url):
     driver.get(url)
@@ -97,7 +99,9 @@ async def main():
     password = os.environ.get("senha")
     url = "url_dos_seus_cofres_d4sign"
 
-    total_documents = 354
+    await login(driver, email, password, url)
+
+    total_documents = 354  # inserir qtd
     pags_num = math.ceil(total_documents / 20)
     print(f"Número total de páginas = {pags_num}")
     print(f"Quantidade total de documentos: {total_documents}")

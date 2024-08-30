@@ -8,3 +8,6 @@ mypy .
 
 # run tests
 pytest
+
+# run pylint
+pylint .
