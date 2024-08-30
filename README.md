@@ -7,8 +7,6 @@ Este repositório contém diferentes automações de web scraping utilizando **S
 ```bash
 web_scrapings/
 ├── __init__.py               # Inicializador do pacote
-├── __pycache__/              # Cache gerado automaticamente
-│   └── to_pdf.cpython-312.pyc
 ├── commands.txt              # Comandos úteis e instruções para rodar os scripts
 ├── d4sign/                   # Scripts relacionados ao D4Sign
 │   ├── __init__.py
