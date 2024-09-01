@@ -1,8 +1,16 @@
+# Projetos $$$
+/aliexpress
+/kabum
+# $$$$
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 /.mypy_cache
-
+#/kabum_sqlite_telegram
 # C extensions
 *.so
 
@@ -50,3 +58,5 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+kabum/beautifulsoup_main.py
+kabum/selenium_main.py

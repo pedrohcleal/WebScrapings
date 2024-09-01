@@ -42,7 +42,7 @@ web_scrapings/
 - **Selenium**: Automação de navegação e interação com páginas web.
 - **BeautifulSoup**: Extração e análise de dados HTML.
 - **Requests**: Para fazer requisições HTTP de forma simples.
-  
+
 ## Como Usar
 
 1. Clone o repositório:
